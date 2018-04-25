@@ -1,2 +1,2 @@
 # invie-github
-Platzi-course-repository
+Platzi-course-repository, mejores guitarras
